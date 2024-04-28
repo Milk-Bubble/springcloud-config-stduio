@@ -1,1 +1,2 @@
-this is test-dev.yml
+config:
+  info: this is test-dev.yml's value key is config.info
