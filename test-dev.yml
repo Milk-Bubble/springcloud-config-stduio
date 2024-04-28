@@ -1,2 +1,2 @@
-config:
-  info: this is test-dev.yml's value key is config.info
+server:
+  port: 3356
