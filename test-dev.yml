@@ -1,4 +1,4 @@
 server:
-  port: 3356
+  port: 3358
 config:
   info: this is test-dev.yml
